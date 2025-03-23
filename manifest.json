@@ -1,0 +1,34 @@
+{
+    "id": "app.ngrok-free.103-162-187-35.e543",
+    "short_name": "MyPWA",
+    "name": "My Progressive Web App",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "screenshots": [
+        {
+            "src": "/screenshots/screenshot-desktop.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/screenshots/screenshot-mobile.png",
+            "sizes": "640x480",
+            "type": "image/png"
+        }
+    ]
+}
